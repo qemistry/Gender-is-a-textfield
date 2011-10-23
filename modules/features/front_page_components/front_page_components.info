@@ -1,0 +1,7 @@
+core = "7.x"
+dependencies[] = "delta"
+description = "The delta template and content components for the front page"
+features[ctools][] = "delta:delta:3"
+features[delta][] = "front_page"
+name = "Front Page Components"
+package = "Features"
